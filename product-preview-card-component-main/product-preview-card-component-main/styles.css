@@ -1,0 +1,57 @@
+body {
+    background-color: wheat;
+    text-align: center;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+img{
+    height: 30rem;
+    border-radius: 10px 0 0 10px;
+}
+
+.pic{
+    float: left;
+    
+    margin-right: 20px;
+}
+
+.texts{
+    text-align: left;
+    
+}
+
+.poster{
+    background-color: white;
+    width: 40%;
+   height: 30rem;
+   margin: 100px auto 100px auto;
+   border-radius: 10px;
+   position: absolute;
+   left: 35%;
+}
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 25px;
+    background: #00b82b;
+    padding: 15px 40px 15px 40px;
+    text-decoration: none;
+    margin-left: 40px;
+    margin-top: 20rem;
+  }
+  
+  .btn:hover {
+    background: #178502;
+    text-decoration: none;
+  }
